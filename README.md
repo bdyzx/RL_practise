@@ -1,2 +1,3 @@
 # RL_practise
-ge ren lian xi
+
+不忘初心 以此为鉴
