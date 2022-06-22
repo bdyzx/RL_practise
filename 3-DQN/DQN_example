@@ -1,42 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bdyzx 
-MorvanZhou
-/
-PyTorch-Tutorial
-Public
-Code
-Issues
-21
-Pull requests
-6
-Actions
-Projects
-Wiki
-Security
-Insights
-PyTorch-Tutorial/tutorial-contents/405_DQN_Reinforcement_learning.py /
-@MorvanZhou
-MorvanZhou u
-Latest commit 4e5122c on 29 Oct 2020
- History
- 1 contributor
-129 lines (108 sloc)  4.43 KB
 
-"""
-View more, visit my tutorial page: https://mofanpy.com/tutorials/
-My Youtube Channel: https://www.youtube.com/user/MorvanZhou
-More about Reinforcement learning: https://mofanpy.com/tutorials/machine-learning/reinforcement-learning/
-Dependencies:
-torch: 0.4
-gym: 0.8.1
-numpy
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -156,15 +118,4 @@ for i_episode in range(400):
         if done:
             break
         s = s_
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
